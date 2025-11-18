@@ -13,8 +13,9 @@ This is a Machine Learning-based web application that manages user details, logi
 - Python  
 - MySQL  
 
-## How to Run
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
-
+## ML Models
+-Logistic Regression
+-Random Forest
+-Decision Tress
+-LightGBM
+-ANN
